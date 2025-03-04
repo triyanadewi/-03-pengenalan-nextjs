@@ -85,3 +85,29 @@
 3. Simpan file dan buka http://localhost:3000 di browser. Klik link "Tentang Kami" untuk navigasi ke halaman tentang. <br>
 ![Hasil Link Component 1](img/prak6-hasil1.png) <br>
 ![Hasil Link Component 2](img/prak6-hasil2.png)
+
+---
+
+## Tugas
+1. Buat halaman baru dengan menggunakan Static Site Generation (SSG) yang menampilkan daftar pengguna dari API https://jsonplaceholder.typicode.com/users. 
+    > Kode Program: <br>
+    > ![Kode Program Tugas 1](img/tugas1-kode.png) <br>
+    > 
+    > Hasil: <br>
+    > ![Hasil Tugas 1](img/tugas1-hasil.png)
+
+2. Implementasikan Dynamic Routes untuk menampilkan detail pengguna berdasarkan ID. 
+    > Kode Program: <br>
+    > ![Kode Program Tugas 2](img/tugas2-kode.png)
+    >
+    > Hasil: <br>
+    > ![Hasil Tugas 2](img/tugas2-hasil.png)
+
+3. Buat API route yang mengembalikan data cuaca dari API eksternal (misalnya, OpenWeatherMap) dan tampilkan data tersebut di halaman front-end. 
+    > Kode Program: <br>
+    > ![Kode Program Tugas 3 API](img/tugas3-kodeapi.png) <br>
+    > ![Kode Program Tugas 3 Pages](img/tugas3-kodepages.png)
+    >
+    > Hasil: <br>
+    > ![Hasil Tugas 3](img/tugas3-hasil1.png) <br>
+    > ![Hasil Tugas 3](img/tugas3-hasil2.png)
